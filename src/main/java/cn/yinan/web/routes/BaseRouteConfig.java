@@ -9,7 +9,7 @@ import java.util.List;
  */
 public class BaseRouteConfig implements IRouteConfig {
 
-    private final static String BASE_PACKAGE_NAME = "cn.yinan.ddns.web.controller";
+    private final static String BASE_PACKAGE_NAME = "cn.yinan.web.controller";
 
     @Override
     public void init(List<String> packageNames) {
